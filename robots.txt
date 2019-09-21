@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigeeyiej.mikehall.co.za/sitemap.xml
